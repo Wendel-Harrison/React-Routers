@@ -28,7 +28,7 @@ function Header() {
                 </li>
             </ul>
 
-            <input type='text'className='border rounded'  />
+            <input type='text'className='border rounded-3xl'  />
 
             <FontAwesomeIcon icon={faMagnifyingGlass} className='w-4' />
         </div>
